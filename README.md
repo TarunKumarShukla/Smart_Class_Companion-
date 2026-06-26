@@ -1,16 +1,6 @@
 🎓 Smart Class Companion
 
 Smart Class Companion is a web-based student productivity and collaboration platform designed to help students manage their academic activities efficiently. The application provides a centralized dashboard for tracking course progress, setting goals, managing tasks, sharing notes, and staying updated with class announcements.
-<img width="1907" height="816" alt="Screenshot 2025-09-26 143216" src="https://github.com/user-attachments/assets/fa97534b-8845-4009-a2e1-10c3676b99c7" /><img width="1906" height="863" alt="Screenshot 2025-09-26 143509" src="https://github.com/user-attachments/assets/f3eff61c-8b7a-4bb0-8aa2-aac45add6e87" />
-<img width="1906" height="852" alt="Screenshot 2025-09-26 143436" src="https://github.com/user-attachments/assets/1af9d174-ead7-4f94-85d0-9ad08fac870b" />
-<img width="1906" height="853" alt="Screenshot 2025-09-26 143348" src="https://github.com/user-attachments/assets/976716ac-b7e1-41a4-80da-5900f83ee5d3" />
-<img width="1908" height="903" alt="Screenshot 2025-09-26 143408" src="https://github.com/user-attachments/assets/3722b7bb-bda9-4f46-b4bb-2c369b0b0b5c" />
-<img width="1908" height="856" alt="Screenshot 2025-09-26 143312" src="https://github.com/user-attachments/assets/43ea8362-a55d-47f8-b91d-8e897d031ca3" />
-<img width="1908" height="780" alt="Screenshot 2025-09-26 143232" src="https://github.com/user-attachments/assets/4ae246d4-2647-4549-a885-50180813e635" />
-<img width="1908" height="856" alt="Screenshot 2025-09-26 143312" src="https://github.com/user-attachments/assets/1b827879-ddff-4c56-8ba2-7519b0a67efc" />
-<img width="1908" height="854" alt="Screenshot 2025-09-26 143334" src="https://github.com/user-attachments/assets/657f03f7-9edc-43ca-bc9e-5424e627853f" />
-<img width="1907" height="816" alt="Screenshot 2025-09-26 143216" src="https://github.com/user-attachments/assets/ffbe46fd-0171-40ad-a181-3612604e5052" />
-
 
 Managing academic activities can be challenging when information is scattered across multiple platforms. Smart Class Companion brings everything together in a single, user-friendly dashboard, helping students stay organized and focused on their learning goals.
 
@@ -124,3 +114,14 @@ GitHub: https://github.com/TarunKumarShukla
 📜 License
 
 This project is developed for educational and academic purposes.
+
+Screenshots Of My Projects
+
+<img width="1906" height="863" alt="Screenshot 2025-09-26 143509" src="https://github.com/user-attachments/assets/d6413ead-1072-4729-a565-8e33afd22f78" />
+<img width="1906" height="852" alt="Screenshot 2025-09-26 143436" src="https://github.com/user-attachments/assets/38a91d65-95d7-418e-9744-d035d5fc3abb" />
+<img width="1908" height="903" alt="Screenshot 2025-09-26 143408" src="https://github.com/user-attachments/assets/9f7bfc3e-93b7-4d51-8027-a895e43a613c" />
+<img width="1906" height="853" alt="Screenshot 2025-09-26 143348" src="https://github.com/user-attachments/assets/d619bc8f-9e0d-4b6f-9bac-7fee3945d3b2" />
+<img width="1908" height="854" alt="Screenshot 2025-09-26 143334" src="https://github.com/user-attachments/assets/e354806d-e725-48e4-b44b-bf0eef2d41d6" />
+<img width="1908" height="856" alt="Screenshot 2025-09-26 143312" src="https://github.com/user-attachments/assets/98608720-2016-423b-9c56-3b7978dc791d" />
+<img width="1908" height="780" alt="Screenshot 2025-09-26 143232" src="https://github.com/user-attachments/assets/612b385b-d8fd-4636-be43-b0c3e825b592" />
+<img width="1907" height="816" alt="Screenshot 2025-09-26 143216" src="https://github.com/user-attachments/assets/86d866e7-1179-4ee6-b8e4-fce32c41a018" />
